@@ -1,4 +1,4 @@
- #👋 Hi, I’m Glaucia Castro! 
+ 👋 #Hi, I’m Glaucia Castro! 
 - I'm 34 years old, I have a degree in Software Analysis and Development
 - 🌱 I am currently improving my knowledge studying Development with a focus on Backend in the JavaScript language.
 - 💞️ In addition to JS, I have knowledge about Node.js, VS Code and Express.js
