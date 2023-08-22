@@ -1,11 +1,17 @@
- 👋 Hi, I’m Glaucia Castro! 
-- I'm 34 years old, I have a degree in Software Analysis and Development
-- 🌱 I am currently improving my knowledge studying Development with a focus on Backend in the JavaScript language.
-- 💞️ In addition to JS, I have knowledge about Node.js, VS Code and Express.js
-- 📫 How to reach me ...
+## Olá eu sou a Glaucia Castro !
 
+- 👋 Tenho 34 anos e sou de São Paulo/SP!
+- 🎓 Sou formada em Analise e Desenvolvimento de Sistemas
+- 😉 Pronomes Ela/Dela
+- 🌱 Atualmente aprimorando meus conhecimentos estudando Desenvolvimento de Software com foco em Backend na linguagem JavaScript
+- 📝 Conhecimentos sobre Node.js, VS Code and Express.js, também possuo HTML básico
+- 📫 Podem me contatar em: 
+   
+<div> 
 
-<!---
-Glaucia-S-Castro/Glaucia-S-Castro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <a href = "mailto:contatorgalcastrossc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/glauciascastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+ ##
