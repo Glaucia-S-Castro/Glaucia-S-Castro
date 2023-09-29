@@ -3,8 +3,8 @@
 - 👋 Tenho 34 anos e sou de São Paulo/SP!
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas
 - 😉 Pronomes Ela/Dela
-- 🌱 Aprimorando meus conhecimentos em desenvolvimento com foco em Backend na linguagem JavaScript
-- 📝 Experiência com Node.js, VS Code e Express.js, possuo conhecimentos básicos de HTML e Java
+- 🌱 Aprimorando meus conhecimentos de desenvolvimento com foco em Backend na linguagem JavaScript
+- 📝 Experiência com Node.js, VS Code e Express.js, pacotes NPM, API Rest e tenho conhecimentos mais básicos de HTML, Java e bancos de dados SQL
 - 📫 Podem me contatar em: 
    
 <div> 
