@@ -1,10 +1,10 @@
 ## Olá eu sou a Glaucia Castro !
 
 - 👋 Tenho 34 anos e sou de São Paulo/SP!
-- 🎓 Sou formada em Analise e Desenvolvimento de Sistemas
+- 🎓 Formada em Analise e Desenvolvimento de Sistemas
 - 😉 Pronomes Ela/Dela
-- 🌱 Atualmente aprimorando meus conhecimentos estudando Desenvolvimento de Software com foco em Backend na linguagem JavaScript
-- 📝 Conhecimentos sobre Node.js, VS Code and Express.js, também possuo HTML básico
+- 🌱 Aprimorando meus conhecimentos em desenvolvimento com foco em Backend na linguagem JavaScript
+- 📝 Experiência com Node.js, VS Code e Express.js, possuo conhecimentos básicos de HTML e Java
 - 📫 Podem me contatar em: 
    
 <div> 
