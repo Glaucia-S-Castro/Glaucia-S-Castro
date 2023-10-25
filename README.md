@@ -4,7 +4,7 @@
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas;
 - 😉 Meus pronomes são Ela/Dela;
 - 🌱 Estou aprofundando meus conhecimentos de desenvolvimento com foco em Backend na linguagem JavaScript e PostgreSQL;
-- 📝 Além disso tenho experiência com Node.js, VS Code, Express.js, pacotes NPM, API Rest e tenho conhecimentos mais básicos de HTML, Java e bancos de dados SQL;
+- 📝 Além disso tenho experiência com Node.js, VS Code, Express.js, pacotes NPM, API Rest e tenho conhecimentos mais básicos de HTML e Java;
 - 📫 Podem me contatar em: 
    
 <div> 
