@@ -5,7 +5,6 @@
 - 😉 Meus pronomes são Ela/Dela;
 - 📝 Experiência com desenvolvimento Backend na linguagem JavaScript, construindo APIs Rest, Node.js, VS Code, PostgreSQL, bibliotecas NPM. Também conhecimentos mais básicos de HTML e Java;
 - 🌱 Atualmente aprofundando meus conhecimentos cursando DevOps e Cloud AWS;
-  - 
 - 📫 Podem me contatar em: 
    
 <div> 
