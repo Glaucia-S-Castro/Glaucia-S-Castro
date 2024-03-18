@@ -3,7 +3,7 @@
 - 👋 Tenho 34 anos e sou de São Paulo/SP;
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas;
 - 😉 Meus pronomes são Ela/Dela;
-- 📝 Tenho experiência com desenvolvimento Backend na linguagem JavaScript, construindo APIs Rest e Rest full com Node.js, PostgreSQL, VS Code, bibliotecas NPM, Git e GitHub. Possuo também conhecimentos mais básicos de HTML e Java;
+- 📝 Tenho experiência com desenvolvimento Backend em TypeScript, JavaScript, construindo APIs Rest e Rest full com Node.js, Nest.Js, PostgreSQL, VS Code, Express, Git e GitHub. Possuo também conhecimentos mais básicos de HTML e Java;
 - 🌱 Atualmente aprofundando meus conhecimentos cursando DevOps abordando Python, Linux, Dockers, Redes, Kubernetes, Cloud e curso também Cloud AWS buscando a certificação;
 - 🎯 Focada em realizar uma transição de carreira pra tecnologia, possuo conhecimentos diversos de experiências profissionais anteriores de onde destaco os mais de 7 anos de experiência na área de negócios corporativos e relacionamento B2B;
 - 📫 Podem me contatar em: 
@@ -18,7 +18,7 @@
  ## My skills
    
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,vscode,git,github,java,eclipse,html" />
+<img src="https://skillicons.dev/icons?i=python,typescript,js,nodejs,express,nestjs,vscode,git,github,html,java,eclipse," />
 </a>
 </p>
 
