@@ -15,7 +15,7 @@
   
 </div>
 
- ## My skills
+ ## Tecnologias e Ferramentas
    
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,typescript,python,html,java,nodejs,express,nestjs,eclipse,postgresql,prisma,git,github," />
