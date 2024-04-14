@@ -18,7 +18,7 @@
  ## My skills
    
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,typescript,js,nodejs,express,nestjs,postgresql,prisma,git,github,html,java,eclipse," />
+<img src="https://skillicons.dev/icons?i=js,typescript,python,html,java,nodejs,express,nestjs,eclipse,postgresql,prisma,git,github," />
 </a>
 </p>
 
