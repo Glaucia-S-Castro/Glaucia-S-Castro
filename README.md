@@ -5,7 +5,7 @@
 - 😉 Meus pronomes são Ela/Dela;
 - 📝 Tenho experiência com desenvolvimento Backend em TypeScript, JavaScript, construindo APIs Rest e Rest full com Node.js, Nest.Js, PostgreSQL, Prisma, Express, Git e GitHub. Possuo também conhecimentos mais básicos de HTML e Java;
 - 🌱 Atualmente aprofundando meus conhecimentos cursando DevOps abordando Python, Linux, Dockers, Redes, Kubernetes, Cloud e curso também Cloud AWS buscando a certificação;
-- 🎯 Focada em realizar uma transição de carreira pra tecnologia, possuo conhecimentos diversos de experiências profissionais anteriores de onde destaco os mais de 7 anos de experiência na área de negócios corporativos e relacionamento B2B;
+- 🎯 Possuo conhecimentos diversos de experiências profissionais anteriores de onde destaco os mais cerca de dez anos de experiência na área de negócios corporativos e relacionamentos B2B;
 - 📫 Podem me contatar em: 
    
 <div> 
