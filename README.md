@@ -3,9 +3,9 @@
 - 👋 Tenho 34 anos e sou de São Paulo/SP;
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas;
 - 😉 Meus pronomes são Ela/Dela;
-- 📝 Tenho experiência com desenvolvimento backend em TypeScript, JavaScript, construindo APIs Rest e Rest full com Node.js, NestJS, PostgreSQL, Prisma, Express, Git e GitHub. Possuo também conhecimentos mais básicos de HTML e Java;
-- 🌱 Atualmente aprofundando meus conhecimentos cursando DevOps abordando Python, Linux, Dockers, Redes, Kubernetes, Cloud e curso também AWS Cloud Computing buscando a certificação;
-- 🎯 Possuo conhecimentos diversos de experiências profissionais anteriores de onde destaco os mais cerca de dez anos de experiência na área de negócios corporativos e relacionamentos B2B;
+- 📝 Possuo certificação AWS Certified Cloud Practitioner CLF-C02, tenho experiência com desenvolvimento backend em JavaScript e TypeScript construindo APIs Rest com Node.js, Express, NestJS, SQL, PostgreSQL, Prisma ORM entre outras tecnologias. Possuo também conhecimentos mais básicos de HTML e Java;
+- 🌱 Atualmente estou aprofundando meus conhecimentos cursando DevOps abordando Python, Linux, Redes, Shell Scrips, Automação de rotinas, testes automatizados, CI/CD, Docker, NGINX, Microserviços e Kubernetes;
+- 🎯 Aliado a isso estão também os conhecimentos diversos vindos de experiências profissionais anteriores principalmente na área de negócios corporativos e relacionamentos B2B onde atuei cerca de dez anos.
 - 📫 Podem me contatar em: 
    
 <div> 
