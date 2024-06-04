@@ -4,7 +4,7 @@
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas;
 - 😉 Meus pronomes são Ela/Dela;
 - 📝 Possuo certificação AWS Certified Cloud Practitioner CLF-C02, tenho experiência com desenvolvimento backend em JavaScript e TypeScript construindo APIs Rest com Node.js, Express, NestJS, SQL, PostgreSQL, Prisma ORM entre outras tecnologias. Possuo também conhecimentos mais básicos de HTML e Java;
-- 🌱 Atualmente estou aprofundando meus conhecimentos cursando DevOps abordando Python, Linux, Redes, Shell Scrips, Automação de rotinas, testes automatizados, CI/CD, Docker, NGINX, Microserviços e Kubernetes;
+- 🌱 Atualmente estou aprofundando meus conhecimentos cursando DevOps abordando Python, Linux, Redes, Shell Scripting, PowerShell, CI/CD, Automação de rotinas, testes automatizados, pipelines no Github Actions, Docker, NGINX, Kubernetes e  Microserviços;
 - 🎯 Aliado a isso estão também os conhecimentos diversos vindos de experiências profissionais anteriores principalmente na área de negócios corporativos e relacionamentos B2B onde atuei cerca de dez anos.
 - 📫 Podem me contatar em: 
    
