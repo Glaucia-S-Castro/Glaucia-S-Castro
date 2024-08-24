@@ -1,5 +1,5 @@
 ## Olá eu sou a Glaucia !
-
+Pra editar
 - 👋 Tenho 34 anos e sou da zona sul de São Paulo capital;
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas;
 - 😉 Meus pronomes são Ela/Dela;
