@@ -25,7 +25,7 @@
 
 - DevOps e servidores
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell,docker,nginx,kubernetes,githubactions" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell,docker,nginx,kubernetes,terraform,ansible,githubactions,grafana,prometheus" />
 </a>
 </p>
 
