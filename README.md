@@ -1,6 +1,6 @@
 ## Olá eu sou a Glaucia !
 
-- 👋 Tenho 34 anos e sou da zona sul de São Paulo capital;
+- 👋 Tenho 35 anos e sou da zona sul de São Paulo capital;
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas;
 - 😉 Meus pronomes são Ela/Dela;
 - 📝 Possuo certificação AWS Cloud Practitioner CLF-C02, tenho experiência com desenvolvimento backend na construção de APIs Rest e de aplicações web usando diferentes linguagens, bancos de dados e tecnologias cloud, atuando em equipes multidisciplinares. Conto ainda com experiência no uso de metodologias ágeis, como Scrum e Kanban, e no uso plataformas de gestão de projetos para desenvolvimento de software;
