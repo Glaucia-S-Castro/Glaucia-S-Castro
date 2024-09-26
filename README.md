@@ -17,15 +17,15 @@
 
  ## Habilidades com tecnologias e ferramentas:
 
-- Desenvolvimento de software
+- DevOps e servidores
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,typescript,python,html,nodejs,express,nestjs,npm,visualstudio" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell,docker,nginx,kubernetes,terraform,ansible,githubactions,jenkins,cypress" />
 </a>
 </p>
 
-- DevOps e servidores
+- Desenvolvimento de software
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell,docker,nginx,kubernetes,terraform,ansible,githubactions,cypress" />
+<img src="https://skillicons.dev/icons?i=js,typescript,python,html,nodejs,express,nestjs,npm,visualstudio" />
 </a>
 </p>
 
@@ -43,7 +43,7 @@
 
 - Controle de versão
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </a>
 </p>
 
