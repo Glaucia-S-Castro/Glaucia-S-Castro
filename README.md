@@ -4,9 +4,9 @@
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas;
 - ❤️ Faço parte da equipe de DevOps do Grupo Boticário nas frentes de E-commerce e Marketplace;
 - 😉 Meus pronomes são Ela/Dela;
-- 📝 Possuo certificação AWS Cloud Practitioner CLF-C02, tenho experiência com desenvolvimento backend na construção de APIs Rest e de aplicações web usando diferentes linguagens, bancos de dados e tecnologias cloud, atuando em equipes multidisciplinares. Conto ainda com experiência no uso de metodologias ágeis, como Scrum e Kanban, e no uso plataformas de gestão de projetos para desenvolvimento de software;
+- 📝 Possuo certificação AWS Cloud Practitioner CLF-C02, tenho experiência com desenvolvimento backend na construção de APIs Rest e de aplicações web usando diferentes linguagens, bancos de dados e tecnologias cloud, atuando em equipes multidisciplinares. Faço uso de metodologias ágeis no dia a dia, Scrum, Kanban e OKRs, usando também plataformas de gestão de projetos para desenvolvimento de software como Trello, Jira e Kanbanize;
 - 🎯 Trago comigo conhecimentos e soft skills vindos de experiências anteriores principalmente da área de negócios corporativos e relacionamento B2B onde atuei cerca de dez anos.
-- 🌱 Atualmente estou aprofundando meus conhecimentos em Obsevalidade com Grafana e Prometheus, e estudo continuamente AWS buscando a próxima certificação nível Associate.
+- 🌱 Atualmente estou aprofundando meus conhecimentos em Obsevalidade com Grafana, Prometheus e New Relic, e estudo continuamente AWS buscando a próxima certificação nível Associate.
 - 📫 Podem me contatar em:
   
 <div> 
