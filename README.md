@@ -59,6 +59,6 @@
   
 ## Estou aprendendo
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,grafana,prometheus" />
+<img src="https://skillicons.dev/icons?i=aws,grafana,prometheus,rabbitmq" />
 </a>
 </p>
